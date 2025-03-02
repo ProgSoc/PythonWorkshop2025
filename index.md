@@ -46,6 +46,7 @@ Welcome to the Python Workshop!
 print("Hello, World!")  # Prints text to the screen
 ```
 
+--- 
 ## Variables and Data Types
 
     Variables store data values.
@@ -60,6 +61,8 @@ height = 5.9  # Float
 name = "John"  # String
 is_student = True  # Boolean
 ```
+---
+
 ## Control Flow: if/else Statements
 ```python
 age = 18
@@ -68,6 +71,8 @@ if age >= 18:
     print("You are an adult!")
 else:
     print("You are a minor.")
+```
+---
 
 ## Loops: for and while
 For Loop
@@ -85,21 +90,27 @@ while count < 5:
     print(count)
     count += 1
 ``` 
+---
 
 ## Functions in Python
 
-    Functions are reusable blocks of code.
+Functions are reusable blocks of code.
 
+```python
 def greet(name):
     print(f"Hello, {name}!")
 
 greet("Alice")  # Calls the function
+```
+---
 
 ## Conclusion
 
-    Practice is key to mastering Python.
-    Start small and build projects as you go!
-    Explore Python documentation: docs.python.org
+Practice is key to mastering Python.
+Start small and build projects as you go!
+Explore Python documentation: docs.python.org
+
+---
 
 ## Questions?
 
